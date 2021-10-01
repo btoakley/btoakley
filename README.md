@@ -1,4 +1,4 @@
-### Brendon Toakley / OPS435NAA
+### Brendon Toakley - OPS435NAA
 
 <!--
 **btoakley/btoakley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
